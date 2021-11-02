@@ -1,0 +1,28 @@
+body
+{
+    text-align: center;
+    background-color: aqua;
+    
+}
+img
+{
+    border-style: solid;
+    border-width: 3px;
+    padding: 3px;
+    border-color: aquamarine;
+    height: 300px;
+    width: 300px;
+}
+.menu
+{
+    float:left;
+    list-style: none;
+    cursor: pointer;
+    position: fixed;
+    z-index: 999;
+}
+.links
+{
+    float: left;
+    
+}
